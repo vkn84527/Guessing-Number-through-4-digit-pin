@@ -6,4 +6,8 @@ If any digit out of the guessed four-digit code is wrong, the computer should pr
 If the digit is correct but at the wrong place, the computer should print “Y”.
 If both the digit and position is correct, the computer should print “R”. 
 
+Program Preview : 
+
+First, I write a function to generate a random four digit code using Python’s random module. Next, we define a function that asks for user input. Finally, we write a function that compares the generated code to the guessed code and gives appropriate results.
+
   
